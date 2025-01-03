@@ -12,7 +12,7 @@
     "slideshow_Gj9tq6": {
       "type": "slideshow",
       "blocks": {
-        "slide_CNyqY7": {
+        "slide_dJCGWU": {
           "type": "slide",
           "settings": {
             "heading": "Image slide",
@@ -25,11 +25,11 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
-        "slide_3ydNti": {
+        "slide_zh44eY": {
           "type": "slide",
           "settings": {
             "heading": "Image slide",
@@ -42,22 +42,22 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "slide_CNyqY7",
-        "slide_3ydNti"
+        "slide_dJCGWU",
+        "slide_zh44eY"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "counter",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 3,
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
